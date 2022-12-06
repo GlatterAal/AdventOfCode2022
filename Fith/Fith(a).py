@@ -15,4 +15,4 @@ def main(file):
     for a in arr:
         s=s+a[-1]
     return s
-print(main(r"C:\Users\pc\Desktop\Github\AdventOfCode2022\Fith\input.txt"))  
+print(main(r"input.txt"))  

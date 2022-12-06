@@ -27,4 +27,4 @@ def main(file):
             max+=getValue(e)
     return max
 
-print(main(r"C:\Users\pc\Desktop\Github\AdventOfCode2022\Third\input.txt"))
+print(main(r"input.txt")) 

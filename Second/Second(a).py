@@ -46,4 +46,4 @@ def main(file):
         max+=res+val
     return max
         
-print(main(r"C:\Users\pc\Desktop\Github\AdventOfCode2022\Second\input.txt"))
+print(main(r"input.txt")) 

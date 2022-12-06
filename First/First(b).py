@@ -31,4 +31,4 @@ def main(file):
         max3=current
     return max1+max2+max3
 
-print(main(r"C:\Users\pc\Desktop\Github\AdventOfCode2022\First\input.txt"))
+print(main(r"input.txt"))

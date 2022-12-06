@@ -33,4 +33,4 @@ def main(file):
         i+=1
     return max
 
-print(main(r"C:\Users\pc\Desktop\Github\AdventOfCode2022\Third\input.txt"))
+print(main(r"input.txt")) 

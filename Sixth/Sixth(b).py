@@ -21,4 +21,4 @@ def main(file):
                 print(s)
                 break
             
-print(main(r"C:\Users\Admin\Desktop\GitHubProjects\AdventOfCode2022\Sixth\input.txt"))
+print(main(r"input.txt")) 

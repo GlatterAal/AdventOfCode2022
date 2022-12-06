@@ -15,4 +15,4 @@ def main(file):
         max=current
     return max
 
-print(main(r"C:\Users\pc\Desktop\Github\AdventOfCode2022\First\test.txt"))
+print(main(r"input.txt"))
